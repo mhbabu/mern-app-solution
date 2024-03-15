@@ -1,0 +1,9 @@
+[submodule "ecom-node-api"]
+	path = ecom-node-api
+	url = https://github.com/mhbabu/ecom-node-api.git
+[submodule "ecom-node-cms"]
+	path = ecom-node-cms
+	url = https://github.com/mhbabu/ecom-node-cms.git
+[submodule "ecom-react-frontend"]
+	path = ecom-react-frontend
+	url = https://github.com/mhbabu/ecom-react-frontend.git
